@@ -2,15 +2,16 @@
 # Material Count: 1
 
 newmtl RustMixedOnPaint012_3K
-Ns 225.000000
-Ka 0.390909 0.390909 0.390909
+Ns 708.440271
+Ka 0.932331 0.932331 0.932331
 Kd 0.800000 0.800000 0.800000
-Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 3
 
-map_Kd \\texturesChave\\diffuse.png
-map_Bump \\texturesChave\\normal.png
-map_Ns \\texturesChave\\roughness.png
+
+map_Kd \\texturesChave\\diffuse1.png
+map_Bump \\texturesChave\\normal2.png
+map_Ns \\texturesChave\\roughness2.png
+map_Ks \\texturesChave\\roughness2.png

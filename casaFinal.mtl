@@ -13,6 +13,7 @@ illum 2
 map_Kd \\textures\\diffuse.png
 map_Bump \\textures\\normal.png
 map_Ns \\textures\\roughness.png
+map_Ks \\textures\\roughness.png
 
 newmtl Material.004
 Ns 225.000000
@@ -26,6 +27,7 @@ illum 2
 map_Kd \\textures\\diffuse.png
 map_Bump \\textures\\normal.png
 map_Ns \\textures\\roughness.png
+map_Ks \\textures\\roughness.png
 
 newmtl Material.006
 Ns 323.999994
@@ -39,6 +41,7 @@ illum 2
 map_Kd \\textures\\diffuse.png
 map_Bump \\textures\\normal.png
 map_Ns \\textures\\roughness.png
+map_Ks \\textures\\roughness.png
 
 newmtl RustMixedOnPaint012_3K_box
 Ns 225.000000
@@ -52,6 +55,7 @@ illum 2
 map_Kd \\textures\\diffuse.png
 map_Bump \\textures\\normal.png
 map_Ns \\textures\\roughness.png
+map_Ks \\textures\\roughness.png
 
 newmtl WoodPlanksWorn33_3K.001
 Ns 225.000000
@@ -65,3 +69,4 @@ illum 2
 map_Kd \\textures\\diffuse.png
 map_Bump \\textures\\normal.png
 map_Ns \\textures\\roughness.png
+map_Ks \\textures\\roughness.png
